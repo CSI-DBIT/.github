@@ -42,11 +42,11 @@ To become a part of the CSI DBIT community, you can:
 
 <p align='left'>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a margin="1rem" target="blank" href="https://www.linkedin.com/company/computer-society-of-india-csi-dbit" ><img src="./assets/linkedin.webp" alt="CSI DBIT Linkedin" padding="0.5rem" height="30" width="30" /></a>
-  <a margin="1rem" target="blank" href="https://www.instagram.com/csidbit/" ><img src="./assets/instagram.webp" alt="CSI DBIT Instagram" padding="0.5rem" height="30" width="30" /></a>
-  <a margin="1rem" target="blank" href="https://twitter.com/csidbit"><img  src="./assets/twitter.webp" alt="CSI DBIT Twitter" padding="0.5rem" height="30" width="30" /></a>
-  <a margin="1rem" target="blank" href="https://www.youtube.com/c/CSIDBIT" ><img src="./assets/youtube.webp" alt="CSI DBIT Youtube" padding="0.5rem" height="30" width="30" /></a>
-  <a margin="1rem" target="blank" href="https://www.facebook.com/csidbit/" ><img src="./assets/facebook.webp" alt="CSI DBIT Facebook" padding="0.5rem" height="30" width="30" /></a>
+  <a margin="1rem" target="blank" href="https://www.linkedin.com/company/computer-society-of-india-csi-dbit" ><img src="../assets/linkedin.webp" alt="CSI DBIT Linkedin" padding="0.5rem" height="30" width="30" /></a>
+  <a margin="1rem" target="blank" href="https://www.instagram.com/csidbit/" ><img src="../assets/instagram.webp" alt="CSI DBIT Instagram" padding="0.5rem" height="30" width="30" /></a>
+  <a margin="1rem" target="blank" href="https://twitter.com/csidbit"><img  src="../assets/twitter.webp" alt="CSI DBIT Twitter" padding="0.5rem" height="30" width="30" /></a>
+  <a margin="1rem" target="blank" href="https://www.youtube.com/c/CSIDBIT" ><img src="../assets/youtube.webp" alt="CSI DBIT Youtube" padding="0.5rem" height="30" width="30" /></a>
+  <a margin="1rem" target="blank" href="https://www.facebook.com/csidbit/" ><img src="../assets/facebook.webp" alt="CSI DBIT Facebook" padding="0.5rem" height="30" width="30" /></a>
 </p>
 
 ## Contact Us
@@ -58,7 +58,7 @@ If you have any questions, suggestions, or would like to collaborate with us, pl
 We look forward to having you as a part of our vibrant tech community!
 
 <p align='left'> 
-  <a margin="1rem" target="blank" href="https://csi.dbit.in/" ><img src="./assets/CSI-DBIT.webp" alt="CSI DBIT" padding="0.5rem"  height="100" width="100"/></a>
-  <a margin="1rem" target="blank" href="https://www.csimumbai.org/" ><img src="./assets/csi_mumbai_logo.webp" alt="CSI DBIT Mumbai" padding="0.5rem"  height="100" width="100"/></a>
-  <a margin="1rem" target="blank" href="https://dbit.in/" ><img src="./assets/dbitlogo.webp" alt="DBIT" padding="0.5rem" height="100" width="100" /></a>
+  <a margin="1rem" target="blank" href="https://csi.dbit.in/" ><img src="../assets/CSI-DBIT.webp" alt="CSI DBIT" padding="0.5rem"  height="100" width="100"/></a>
+  <a margin="1rem" target="blank" href="https://www.csimumbai.org/" ><img src="../assets/csi_mumbai_logo.webp" alt="CSI DBIT Mumbai" padding="0.5rem"  height="100" width="100"/></a>
+  <a margin="1rem" target="blank" href="https://dbit.in/" ><img src="../assets/dbitlogo.webp" alt="DBIT" padding="0.5rem" height="100" width="100" /></a>
 </p>
